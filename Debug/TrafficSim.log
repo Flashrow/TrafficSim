@@ -1,0 +1,31 @@
+﻿  Car.cpp
+D:\Code\ReposTemporary\pk3_project\TrafficSim\TrafficSim\Car.cpp(99,68): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Code\ReposTemporary\pk3_project\TrafficSim\TrafficSim\Car.cpp(99,47): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Code\ReposTemporary\pk3_project\TrafficSim\TrafficSim\Car.cpp(116,70): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Code\ReposTemporary\pk3_project\TrafficSim\TrafficSim\Car.cpp(152,71): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Code\ReposTemporary\pk3_project\TrafficSim\TrafficSim\Car.cpp(172,84): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Code\ReposTemporary\pk3_project\TrafficSim\TrafficSim\Car.cpp(193,81): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Code\ReposTemporary\pk3_project\TrafficSim\TrafficSim\Car.cpp(208,67): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Code\ReposTemporary\pk3_project\TrafficSim\TrafficSim\Car.cpp(225,67): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Code\ReposTemporary\pk3_project\TrafficSim\TrafficSim\Car.cpp(243,71): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Code\ReposTemporary\pk3_project\TrafficSim\TrafficSim\Car.cpp(323,22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CityClass.cpp
+D:\Code\ReposTemporary\pk3_project\TrafficSim\TrafficSim\CityClass.cpp(100,65): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Code\ReposTemporary\pk3_project\TrafficSim\TrafficSim\CityClass.cpp(100,40): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Code\ReposTemporary\pk3_project\TrafficSim\TrafficSim\CityClass.cpp(118,30): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Code\ReposTemporary\pk3_project\TrafficSim\TrafficSim\CityClass.cpp(118,22): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Code\ReposTemporary\pk3_project\TrafficSim\TrafficSim\CityClass.cpp(122,20): warning C4018: '<': signed/unsigned mismatch
+D:\Code\ReposTemporary\pk3_project\TrafficSim\TrafficSim\CityClass.cpp(124,54): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Code\ReposTemporary\pk3_project\TrafficSim\TrafficSim\CityClass.cpp(124,34): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Code\ReposTemporary\pk3_project\TrafficSim\TrafficSim\CityClass.cpp(132,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Main.cpp
+  StreetManager.cpp
+D:\Code\ReposTemporary\pk3_project\TrafficSim\TrafficSim\StreetManager.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+D:\Code\ReposTemporary\pk3_project\TrafficSim\TrafficSim\StreetManager.cpp(24,20): warning C4018: '<=': signed/unsigned mismatch
+  StreetSection.cpp
+D:\Code\ReposTemporary\pk3_project\TrafficSim\TrafficSim\StreetSection.cpp(35,62): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Code\ReposTemporary\pk3_project\TrafficSim\TrafficSim\StreetSection.cpp(35,41): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Truck.cpp
+  Generating Code...
+D:\Code\ReposTemporary\pk3_project\TrafficSim\TrafficSim\CityClass.cpp(151): warning C4715: 'CityManager::spawnCar': not all control paths return a value
+  TrafficSim.vcxproj -> D:\Code\ReposTemporary\pk3_project\TrafficSim\Debug\TrafficSim.exe
